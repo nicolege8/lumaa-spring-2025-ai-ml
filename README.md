@@ -14,8 +14,8 @@
    - After running the input "Romance with Comedy", I received the output of:
 
    Top recommendations:
-   1. The Beach Bum (Score: 0.1883)
-   2. Becoming Jane (Score: 0.1536)
-   3. The Importance of Being Earnest (Score: 0.1514)
-   4. Rifkin’s Festival (Score: 0.1387)
-   5. Only Lovers Left Alive (Score: 0.1125)
+   1. The Beach Bum (Score: 0.2421)
+   2. Becoming Jane (Score: 0.2062)
+   3. The Importance of Being Earnest (Score: 0.1946)
+   4. Only Lovers Left Alive (Score: 0.1436)
+   5. Vampire in Brooklyn (Score: 0.1262)
